@@ -1,4 +1,8 @@
 # Melissa-Serrano
+Processing Tutorials is a lesson plan, tutorial outline, and sample code used to teach middle school students how to code by showing
+them how to create profiles with the Processing programming language.  These profiles were later incorporated into the CityVille app.
+The video tutorials are available on our YouTube Channel EmpowerMe:  https://www.youtube.com/channel/UCx_MZ6IfjTZcyk50pa9snYA
+
 CityVille App Development
 
 The CityVille revision log indicates changes made for each version of the CityVille.apk uploaded here.
